@@ -1,0 +1,11 @@
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\bin\Debug\InitialGUI.exe.config
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\bin\Debug\InitialGUI.exe
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\bin\Debug\InitialGUI.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.csprojAssemblyReference.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.Properties.Resources.resources
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.csproj.GenerateResource.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.csproj.CoreCompileInputs.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.exe
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.GUIEnter.resources
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\GUI\InitialGUI\obj\Debug\InitialGUI.GUIStart.resources

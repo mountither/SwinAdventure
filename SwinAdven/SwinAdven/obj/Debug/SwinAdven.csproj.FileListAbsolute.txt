@@ -1,0 +1,15 @@
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.exe.config
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.exe
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.pdb
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.csprojAssemblyReference.cache
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.exe
+C:\Users\monti\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.dll.config
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.dll
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\bin\Debug\SwinAdven.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.Properties.Resources.resources
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.csproj.GenerateResource.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.csproj.CoreCompileInputs.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.dll
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\SwinAdven\obj\Debug\SwinAdven.csprojAssemblyReference.cache

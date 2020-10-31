@@ -1,0 +1,8 @@
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\bin\Debug\ConsoleAppMain.exe
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\bin\Debug\ConsoleAppMain.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\bin\Debug\SwinAdven.dll
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\obj\Debug\ConsoleAppMain.csproj.CoreCompileInputs.cache
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\obj\Debug\ConsoleAppMain.csproj.CopyComplete
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\obj\Debug\ConsoleAppMain.exe
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\obj\Debug\ConsoleAppMain.pdb
+C:\Users\M_A\Dropbox\OOP\w2\2.3p\SwinAdven\ConsoleAppMain\obj\Debug\ConsoleAppMain.csprojAssemblyReference.cache
